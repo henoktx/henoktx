@@ -6,7 +6,7 @@ My full name is Henok Pontes Teixeira, but you can call me just Henok. I'm 19 ye
 <hr>
 
 #### • How to reach me: 
-[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henokpontes@hotmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henokteixeira@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henoktx) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Henoktx) [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=00599C&&&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henok-teixeira-88330b21b/)
+[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henokpontes@hotmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henokteixeira@alu.ufc.br) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henoktx) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Henoktx) [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=00599C&&&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henok-teixeira-88330b21b/)
 <hr>
 
 #### • Things I'm currently learning:
