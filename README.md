@@ -2,7 +2,7 @@
 
 #### A Software Engineer  and Open Source Contributor
 - 🏫 Software Engineering graduate from **Universidade Federal do Ceará (UFC - Quixadá)**  
-- 🔬 Mid-level Software Engineer at **MarIA Educação**,   
+- 🔬 Mid-level Software Engineer at **MarIA Educação**
 - ⚙️ Tech stack: `Python`, `Django`, `Java`, `Spring Boot`, `TypeScript`, `Vue.js`, `Kotlin`, `C++`, `Git`, `Docker`
 - 🤖 Exploring: **Rust**, **Flutter**, **Software Architecture**  
 - 💬 Ask me about **software engineering**, **backend development**, **performance analysis**  
